@@ -1,57 +1,25 @@
 {
-  "__npminstall_done": "Thu Mar 11 2021 19:29:46 GMT+0800 (中国标准时间)",
-  "_from": "hexo-autogallery@^1.0.0",
-  "_id": "hexo-autogallery@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-jfDEwsQDAKsMjnq026EIorDugkZ41lg9pYUQVBqyqgftDIIBmK1N28wu3XCWFDvuS5gy6STaOujdQYVfnShxoQ==",
-  "_location": "/hexo-autogallery",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "hexo-autogallery@^1.0.0",
-    "name": "hexo-autogallery",
-    "escapedName": "hexo-autogallery",
-    "rawSpec": "^1.0.0",
-    "saveSpec": null,
-    "fetchSpec": "^1.0.0"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/hexo-autogallery/-/hexo-autogallery-1.0.0.tgz",
-  "_shasum": "6c7fb19a1cfe2fdc9bfbb9157aeb23abb9ee5358",
-  "_spec": "hexo-autogallery@^1.0.0",
-  "_where": "D:\\MyProjects\\个人博客\\hexo-master",
-  "author": {
-    "name": "Hokori"
-  },
-  "bugs": {
-    "url": "https://github.com/MoLiShang/hexo-autogallery/issues"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "基于路径自动展示图库的Hexo插件",
-  "devDependencies": {
-    "hexo": "^6.3.0"
-  },
-  "homepage": "https://github.com/MoLiShang/hexo-autogallery#readme",
-  "keywords": [
-    "hexo",
-    "tag",
-    "gallery",
-    "plugin"
-  ],
-  "license": "MIT",
-  "main": "index.js",
   "name": "hexo-autogallery",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/MoLiShang/hexo-autogallery.git"
-  },
+  "version": "1.0.1",
+  "description": "基于路径自动展示图库的Hexo插件",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "author": "Hokori",
+
+  "keywords": [
+    "hexo",
+    "github",
+    "gitee",
+    "plugin"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/MoLiShang/hexo-autogallery.git"
+  },
+  "devDependencies": {
+    "hexo": "^6.3.0"
+  }
 }
